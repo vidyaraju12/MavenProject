@@ -6,9 +6,11 @@
 		<parameter name="uname" value="abc@xyz.com" />
 		<parameter name="pwd" value="Abc@1234" />
 
+
 		<classes>
 			<class name="testcases.SimplilearnLoginTest" />
-			<class name="testcases.HomeTest" />
 		</classes>
+		
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
+
